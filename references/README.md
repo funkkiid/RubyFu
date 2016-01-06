@@ -1,22 +1,22 @@
 # References
 * **Contributors**
-    * Gitbook Desktop Editor
+    * GitBook Desktop Editor
         * [Download and installation][1]
-    * How to Gitbook [Videos]
-        * [Create Gitbook online][2]
-        * [Install Gitbook Editor (on Linux Ubuntu)][3]
-        * [Create Gitbook with Editor][4]
+    * How to GitBook [Videos]
+        * [Create GitBook online][2]
+        * [Install GitBook Editor (on Linux Ubuntu)][3]
+        * [Create GitBook with Editor][4]
         * [Install the Rgitbook package][5]
     * Markdown [Documentations]
-        * [Markdown docs - Gitbook | Official docs][6]
-        * [Mastering Markdown - Github | Mastering Markdown][7]
+        * [Markdown docs - GitBook | Official docs][6]
+        * [Mastering Markdown - GitHub | Mastering Markdown][7]
 * **Beginner**
     * [Ruby Tutorials - Tutorialspoint][8]
     * [Ruby programming Tutorials - Simple Free videos][9]
     * [Ruby Programming - Commercial Training][10]
     * [Lynda: Ruby Essential Training - Commercial Training][11]
     * [Ruby from InfiniteSkills - Commercial Training][12]
-    * [Qick Ruby syntax Cheat sheet][13]
+    * [Quick Ruby syntax Cheat sheet][13]
     * [4Programmer.com - Ruby][23]
     * [Ruby Programming Tutorials - Free Video series][24]
     * [Ruby3arabi - Arabic Ruby community][29]
@@ -27,6 +27,7 @@
     * [Working with Ruby Threads][17]
     * [Ruby Cookbook][18]
     * [Learn Ruby The Hard Way][19]
+    * [AllRubyBooks][33]
 * **Sites, Topics and Articles**
     * [Rubymonk.com][20]
     * [Byte manipulation in ruby][21]
@@ -35,18 +36,19 @@
     * [rubeque][26]
     * [Hackerrank][27]
     * [RubySec - Ruby Security Advisory][28]
+    * A dozen (or so) ways to start sub-processes in Ruby: [Part 1][30], [Part 2][31], [Part 3][32]
 * **Hacking Tools built with ruby**
     * Metasploit framework - Exploitation framework
     * Beef framework - XSS framework
     * Arachni - Web Application scanner framework
-    * METASM - Assembly manipulation suite
-    * WPscan - Wordpress vulnerability scanner
+    * Metasm - Assembly manipulation suite
+    * WPscan - WordPress vulnerability scanner
     * BufferOverflow kit - Exploitation tool Kit
     * HTTP Traceroute
     * CeWL - Custom Word List generator
     * Roini - Vulnerability research and exploit development framework
     * Idb - is a tool to simplify some common tasks for iOS pentesting and research
-    * Bettercap - Extensible MITM tool and framework
+    * Bettercap - Extensible MitM tool and framework
     * WATOBO - THE Web Application Security Toolbox
     * Intrigue.io - Open Source project, discovering attack surface through OSINT
     * OhNo - The Evil Image Builder & Meta Manipulator
@@ -89,4 +91,7 @@
 [27]: https://www.hackerrank.com/
 [28]: http://rubysec.com/
 [29]: http://ruby3arabi.com/
-
+[30]: https://devver.wordpress.com/2009/06/30/a-dozen-or-so-ways-to-start-sub-processes-in-ruby-part-1/
+[31]: https://devver.wordpress.com/2009/07/13/a-dozen-or-so-ways-to-start-sub-processes-in-ruby-part-2/
+[32]: https://devver.wordpress.com/2009/10/12/ruby-subprocesses-part_3/
+[33]: http://www.allrubybooks.com/
